@@ -1,0 +1,7 @@
+# This is a comment line
+# Include file and folder names that you do not want to source control
+*.class
+*.jar
+dummyDir/
+*.log
+dummyDir2/
